@@ -1,0 +1,35 @@
+[
+    {
+        "personId":573435640,
+        "name":"jean",
+        "lastName":"harion",
+        "currentRole":"vice president",
+        "country": "Dominica",
+        "industry":"Telecommunications",
+        "numberOfRecommendations": 0,
+        "numberOfConnections": 0
+    },
+
+    {
+        "personId":337983069,
+        "name":"meredith",
+        "lastName":"kopit-levien",
+        "currentRole":"chief revenue officer",
+        "country": "United States",
+        "industry":"Publishing",
+        "numberOfRecommendations": 0,
+        "numberOfConnections": 0
+    },
+
+    {
+        "personId":556570894,
+        "name":"daniel",
+        "lastName":"roe",
+        "currentRole":"vp, customer operations and support",
+        "country": "United States",
+        "industry":"Computer Software",
+        "numberOfRecommendations": 0,
+        "numberOfConnections": 270
+    }
+
+]
